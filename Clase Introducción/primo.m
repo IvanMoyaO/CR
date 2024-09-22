@@ -1,5 +1,5 @@
-b = es_primo2(12)
-c = es_primo2(17)
+b = es_primo(12)
+c = es_primo(17)
 
 
 % Más rápido
