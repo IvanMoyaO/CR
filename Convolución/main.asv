@@ -1,0 +1,10 @@
+x = [zeroes(1,5) 0.5 2 zeroes(1,7)];
+h = [zeroes(1,5) 1 1 1 1 zeroes(1,5)];
+
+for k=1:length(x)
+    if (k > 6)
+        
+    else 
+
+        C(1,:) = x(k) * [h(7-k:end) zeroes(1,6-k)];
+end
